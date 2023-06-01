@@ -2,7 +2,7 @@
 
 This project is the homework of deeplearning，training FCOS on VOC2012
 
-The full paper is available at: [https://arxiv.org/abs/1904.01355](https://arxiv.org/abs/1904.01355).
+Based on the paper: [https://arxiv.org/abs/1904.01355](https://arxiv.org/abs/1904.01355).
 
 Implementation based on [tianzhi0549/FCOS: FCOS: Fully Convolutional One-Stage Object Detection (ICCV&#39;19) (github.com)](https://github.com/tianzhi0549/FCOS)
 
